@@ -63,7 +63,7 @@
 
 ```
 
-⤷ 둘다 2바이트지만 char은 문자형. 아스키코드.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;⤷ 둘다 2바이트지만 char은 문자형. 아스키코드.<br>
 </details>
 
 
