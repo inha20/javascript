@@ -53,12 +53,16 @@
 크기와 해석방법을 결정하는 자료형
 </summary>
 ➜ primary 원시형과 reference 참조형으로 나뉨.
+        
 ```java
+
         char grade_1=49;
         short grade_2=49;
         System.out.println(grade_1); //'1'  //2byte
         System.out.println(grade_2); //49   //2byte
+
 ```
+
 ⤷ 둘다 2바이트지만 char은 문자형. 아스키코드.<br>
 </details>
 
