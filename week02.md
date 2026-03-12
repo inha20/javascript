@@ -22,9 +22,7 @@
 한 번 작성하면 어디서든 돌아간다
 </summary>
 ➜ 자바 슬로건<br>
-➜ jvm ; // Java Vertual Machine<br>
-➜ JIT 컴파일러 ; // 코드 전체를 한 번에 컴파일하는 프로그램.<br>
-➜ IDE ; Integrated Development Environment<br>
+➜ 하나의 코드는 하나의
 </details>
 
 
