@@ -65,6 +65,21 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;⤷ 둘다 2바이트지만 char은 문자형. 아스키코드.<br>
 </details>
+<details><summary>
+숫자표기형식
+</summary>
+
+        
+```java
+
+        int binVal = 0b1111; //15
+        int octVal = 017; //15
+        int decVal = 15; //15
+        int hexVal = 0xF; //15
+
+```
+
+</details>
 
 
 
