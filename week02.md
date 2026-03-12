@@ -81,7 +81,41 @@
 <details><summary>
 자료형
 </summary>
-➜ byte - short - int - long은 2배씩 커지는 정수형
+➜ byte - short - int - long은 2배씩 커지는 정수형 <br>
+➜ 문자형 char은 2바이트 <br>
+➜ 실수형 float, double은 4, 8 바이트 <br>
+➜ 논리형 boolean은 1바이트 <br>
+</details>
+<details><summary>
+지역 변수 자료형 추론
+</summary>
+
+        
+```java
+
+        var age=21;
+        var height=165.5f;
+        System.out.println(age);
+        System.out.println(height); //마우스 올리기 실습
+
+```
+</details>
+<details><summary>
+메모리에서 값이 변경되지 않도록 컴파일러가 잡아주는 final
+</summary>
+
+        
+```java
+
+        //final, 변수를 상수처럼 만듦.
+        final int MAX_NUM = 100;
+        final int MIN_NUM;
+        //MAX_NUM = 10; //마우스 올리기 실습
+        //MIN_NUM =0;   //비추천
+        //System.out.println(MIN_NUM);
+
+```
+&nbsp;&nbsp;&nbsp;&nbsp;⤷ #define은 리터럴 단계에서 코드의 텍스트를 바꿈.<br>
 </details>
 
 
