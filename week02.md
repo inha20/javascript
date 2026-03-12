@@ -78,6 +78,7 @@
         int hexVal = 0xF; //15
 
 ```
+</details>
 <details><summary>
 자료형
 </summary>
