@@ -86,6 +86,7 @@
 ➜ 실수형 float, double은 4, 8 바이트 <br>
 ➜ 논리형 boolean은 1바이트 <br>
 </details>
+
 <details><summary>
 지역 변수 자료형 추론
 </summary>
