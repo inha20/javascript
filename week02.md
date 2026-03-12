@@ -119,18 +119,40 @@
 ```
 &nbsp;&nbsp;&nbsp;&nbsp;⤷ #define은 리터럴 단계에서 코드의 텍스트를 바꿈.<br>
 </details>
-
-
-
-
-> 단락
-
-
-<details><summary>한 줄 요약
+<details><summary>
+형변환
 </summary>
-➜ 항목1 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;⤷ 설명1<br>
-&nbsp;&nbsp;&nbsp;&nbsp;⤷ 특정 부분 1 ; // 설명2<br>
-&nbsp;&nbsp;&nbsp;&nbsp;⤷ 특정 부분 2 ; // 설명3<br>
-➜항목2 <br>
+
+        
+```java
+
+        int a = 32;
+        //int b = 1000000000000000000; //더 조그만 상자에 넣는 격
+        long b = 1_000_000_000_000_000_000L;
+        //float c = 32.6; //더 조그만 상자에 넣는 격
+        float c = 32.6f;
+        double d= 32.6;
+
+        b=a; //더 큰 상자에 넣는 격
+        a=(int)b;
+        c=a; //실수 범위가 더 커
+        b=(int)c; //크기가 같지만 막아 //실수는 정수로 바꾼 후 넣기
+        
+        double e=a+c;
+        //double e=(double)((float)a+c);
+        //b=a+c;
+        b=(long)(a+c);
+        b=a+(int)c;
+
+```
 </details>
+<details><summary>
+연산자와 피연산자
+</summary>
+➜ 대입연산자는 복사다. 이동이 아니다. <br>
+➜ boolean A; System.out.print(!A) 는 false이다. <br>
+➜ boolean의 연산값은 boolean만 가능. 자바의 특징. <br>
+➜ 비트연산에서 부호비트 고려해야. <br>
+</details>
+
+
