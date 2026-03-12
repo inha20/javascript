@@ -78,7 +78,10 @@
         int hexVal = 0xF; //15
 
 ```
-
+<details><summary>
+자료형
+</summary>
+➜ byte - short - int - long은 2배씩 커지는 정수형
 </details>
 
 
