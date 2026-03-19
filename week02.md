@@ -169,7 +169,9 @@ Scanner
 <details><summary>
 yield
 </summary>
+        
 ```java
+
         medal = switch (rank) {
             case 1 -> "금";
             case 2 -> "은";
@@ -180,5 +182,7 @@ yield
             }
         };
         System.out.println(medal);
+
 ```
+
 </details>
