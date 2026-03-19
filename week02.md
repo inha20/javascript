@@ -157,7 +157,7 @@
 
 
 
-> 제어
+> 제어문 실습
 
 <details><summary>
 Scanner
@@ -186,3 +186,16 @@ yield
 ```
 
 </details>
+
+
+
+<details><summary>
+연산자와 피연산자
+</summary>
+➜ String name = sc.nextLine(); //enter 입력 전까지의 문자열을 받아. <br>
+➜ int score = Integer.parseInt(sc.nextLine()); //캐스팅으로 처리 불가. <br>
+➜ //불명확한 횟수를 통해 반복 -> while 추천 <br>
+➜ do{}while(); //CUI 프로그램에서 많이 사용. 처음 한 번 보여주기 위함. <br>
+➜ 객체지향 언어에서, 배열은 자기자신의 길이를 가지고 있어. <br>
+</details>
+
