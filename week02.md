@@ -156,3 +156,29 @@
 </details>
 
 
+
+> 제어
+
+<details><summary>
+Scanner
+</summary>
+➜ import java.util.Scanner; //java.util 패키지의 Scanner 클래스를 사용하겠다.<br>
+➜ Scanner sc = new Scanner(System.in);<br>
+➜ sc.close();<br>
+</details>
+<details><summary>
+yield
+</summary>
+```java
+        medal = switch (rank) {
+            case 1 -> "금";
+            case 2 -> "은";
+            case 3 -> "동";
+            default -> {
+                System.out.println("순위 외");
+                yield "참가상"; //반환.T.
+            }
+        };
+        System.out.println(medal);
+```
+</details>
