@@ -13,9 +13,10 @@
 </details>
 <details><summary>
 
+<details><summary>
+메소드 getter와 setter
 </summary>
-➜ <br>
-➜ <br>
-➜ <br>
-➜ <br>
+➜ name의 getter는 getName메소드로, return name. <br>
+➜ name의 setter는 setName메소드로, this.name=name. <br>
 </details>
+<details><summary>
