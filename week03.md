@@ -11,7 +11,6 @@
 ➜ 패키지 정보 쓰고나서 클래스에 public 붙여. <br>
 ➜ src에 만들어서 넣어. <br>
 </details>
-<details><summary>
 
 <details><summary>
 메소드 getter와 setter
@@ -19,4 +18,3 @@
 ➜ name의 getter는 getName메소드로, return name. <br>
 ➜ name의 setter는 setName메소드로, this.name=name. <br>
 </details>
-<details><summary>
