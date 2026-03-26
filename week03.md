@@ -9,6 +9,7 @@
 ➜ 앞에 -는 클래스 내부 한정 private.<br>
 ➜ 메소드는 반환타입 ex)void. <br>
 ➜ 패키지 정보 쓰고나서 클래스에 public 붙여. <br>
+➜ src에 만들어서 넣어. <br>
 </details>
 <details><summary>
 
