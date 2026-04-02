@@ -18,7 +18,7 @@
 메소드 getter와 setter
 </summary>
 ➜ name의 getter는 getName메소드로, return name. <br>
-➜ name의 setter는 setName메소드로, this.name=name. <br>
+➜ name의 setter는 setName메소드로, this.name=name. void. <br>
 </details>
 
 <details><summary>
