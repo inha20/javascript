@@ -26,4 +26,5 @@
 </summary>
 ➜ 지역변수에는 포인터 시작점이 스택에 쌓여 <br>
 ➜ 인스턴스 변수는 지역변수 * 생성자 당 변수 갯수. <br>
+ <img width="951" height="330" alt="화면 캡처 2026-04-02 111627" src="https://github.com/user-attachments/assets/200dfce6-d26f-4776-81a2-22e438475cba" />
 </details>
