@@ -20,3 +20,10 @@
 ➜ name의 getter는 getName메소드로, return name. <br>
 ➜ name의 setter는 setName메소드로, this.name=name. <br>
 </details>
+
+<details><summary>
+인스턴스 변수
+</summary>
+➜ 지역변수에는 포인터 시작점이 스택에 쌓여 <br>
+➜ 인스턴스 변수는 지역변수 * 생성자 당 변수 갯수. <br>
+</details>
