@@ -9,6 +9,7 @@
 ➜ 앞에 ~는 패키지 내부 한정 기본값 default.<br>
 ➜ 앞에 -는 클래스 내부 한정 private.<br>
 ➜ 앞에 #는 자식 클래스 한정 protected.<br>
+➜ 밎줄이 있으면 static 붙이는 클래스 변수. <br>
 ➜ 메소드는 반환타입 ex)void. <br>
 ➜ 패키지 정보 쓰고나서 클래스에 public 붙여. <br>
 ➜ src에 만들어서 넣어. <br>
