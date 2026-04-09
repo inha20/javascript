@@ -29,3 +29,11 @@
 ➜ 인스턴스 변수는 지역변수 * 생성자 당 변수 갯수. <br>
  <img width="951" height="330" alt="화면 캡처 2026-04-02 111627" src="https://github.com/user-attachments/assets/200dfce6-d26f-4776-81a2-22e438475cba" />
 </details>
+
+<details><summary>
+static 변수
+</summary>
+<img width="456" height="285" alt="화면 캡처 2026-04-09 112228" src="https://github.com/user-attachments/assets/8428dce0-e0ff-4970-9865-95ee6248ddbc" />
+
+</details>
+
