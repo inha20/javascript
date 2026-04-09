@@ -38,3 +38,13 @@ static 변수
 
 </details>
 
+<details><summary>
+static 변수
+</summary>
+<img width="621" height="158" alt="스크린샷 2026-04-09 121212" src="https://github.com/user-attachments/assets/6e4d6a34-2906-4c88-9727-a753db06b3d2" />
+
+</details>
+
+
+
+
