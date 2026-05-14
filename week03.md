@@ -14,6 +14,7 @@
 ➜ 패키지 정보 쓰고나서 클래스에 public 붙여. <br>
 ➜ src에 만들어서 넣어. <br>
 ➜ 생성자는 void 빼. <br>
+➜ 상속키워드 Child extends Adult. <br>
 </details>
 
 <details><summary>
