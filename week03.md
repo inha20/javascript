@@ -15,6 +15,7 @@
 ➜ src에 만들어서 넣어. <br>
 ➜ 생성자는 void 빼. <br>
 ➜ 상속키워드 Child extends Adult. <br>
+➜ 추상메소드는 이탤릭체. <br>
 </details>
 
 <details><summary>
