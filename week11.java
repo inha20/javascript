@@ -1,4 +1,5 @@
 ```java
+    
 package Interface;
 
 interface Calc{
@@ -54,7 +55,9 @@ public class CalculatorTest {
 }
 
 ```
+
 ```java
+    
 package Interface;
 import java.io.IOException;
 import java.util.Scanner;
@@ -125,8 +128,10 @@ public class SchedulerTest {
         scheduler.sendCallToAgent();
     }
 }
+
 ```
 ```java
+    
 package interfaceex2;
 
 interface IBuy{
@@ -163,6 +168,7 @@ public class CustomerTest {
 
 ```
 ```java
+    
 package interfaceex2;
 
 interface X {
