@@ -8,5 +8,16 @@
 
 시험 관련 pdf 2개, 설정파일 하나.
 
-ctrl alt l
-alt
+week01 Java 기본 구조
+
+week02 자료형, 형변환, Scanner
+
+week03 클래스, 생성자, getter/setter
+
+week10 상속, 다형성
+
+week11 인터페이스
+
+week13 예외처리, 제네릭
+
+week14 파일입출력
